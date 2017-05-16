@@ -1,9 +1,9 @@
-package com.qzybj.libraryimageload.interfaces.impl.picasso;
+package com.qzybj.libimageload.interfaces.impl.picasso;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 
-import com.qzybj.libraryimageload.interfaces.ILoadImageCallback;
+import com.qzybj.libimageload.interfaces.ILoadImageCallback;
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Target;
 

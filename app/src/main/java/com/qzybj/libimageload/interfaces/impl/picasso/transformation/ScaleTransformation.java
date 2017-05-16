@@ -21,7 +21,7 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-package com.qzybj.libraryimageload.interfaces.impl.picasso.transformation;
+package com.qzybj.libimageload.interfaces.impl.picasso.transformation;
 
 import android.graphics.Bitmap;
 import android.graphics.Matrix;

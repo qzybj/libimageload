@@ -1,13 +1,13 @@
-package com.qzybj.libraryimageload;
+package com.qzybj.libimageload;
 
 import android.app.Application;
 import android.content.Context;
 import android.widget.ImageView;
 
-import com.qzybj.libraryimageload.exception.LoadImageException;
-import com.qzybj.libraryimageload.interfaces.ILoadImage;
-import com.qzybj.libraryimageload.interfaces.ILoadImageCallback;
-import com.qzybj.libraryimageload.interfaces.impl.picasso.DefPicassoImpl;
+import com.qzybj.libimageload.exception.LoadImageException;
+import com.qzybj.libimageload.interfaces.ILoadImage;
+import com.qzybj.libimageload.interfaces.ILoadImageCallback;
+import com.qzybj.libimageload.interfaces.impl.picasso.DefPicassoImpl;
 
 
 /**

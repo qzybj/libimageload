@@ -1,4 +1,4 @@
-package com.qzybj.libraryimageload.interfaces;
+package com.qzybj.libimageload.interfaces;
 
 import android.content.Context;
 import android.widget.ImageView;

@@ -1,4 +1,4 @@
-package com.qzybj.libraryimageload.exception;
+package com.qzybj.libimageload.exception;
 
 /**
  * Custom Exception

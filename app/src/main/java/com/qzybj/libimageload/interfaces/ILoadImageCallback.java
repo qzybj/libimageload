@@ -1,4 +1,4 @@
-package com.qzybj.libraryimageload.interfaces;
+package com.qzybj.libimageload.interfaces;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;

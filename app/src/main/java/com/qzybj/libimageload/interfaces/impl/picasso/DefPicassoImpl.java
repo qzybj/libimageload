@@ -1,13 +1,13 @@
-package com.qzybj.libraryimageload.interfaces.impl.picasso;
+package com.qzybj.libimageload.interfaces.impl.picasso;
 
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.widget.ImageView;
 
-import com.qzybj.libraryimageload.interfaces.ILoadImage;
-import com.qzybj.libraryimageload.interfaces.ILoadImageCallback;
-import com.qzybj.libraryimageload.interfaces.impl.picasso.transformation.ScaleTransformation;
+import com.qzybj.libimageload.interfaces.ILoadImage;
+import com.qzybj.libimageload.interfaces.ILoadImageCallback;
+import com.qzybj.libimageload.interfaces.impl.picasso.transformation.ScaleTransformation;
 import com.qzybj.libraryutil.data.StringUtil;
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.RequestCreator;
