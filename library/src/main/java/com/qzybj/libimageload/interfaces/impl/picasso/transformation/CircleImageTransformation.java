@@ -11,7 +11,7 @@ import android.graphics.Shader;
 import com.squareup.picasso.Transformation;
 
 /**
- * Created by ZhangYuanBo on 2016/8/9.
+ * Created by Brady on 2016/8/9.
  */
 public class CircleImageTransformation implements Transformation {
 

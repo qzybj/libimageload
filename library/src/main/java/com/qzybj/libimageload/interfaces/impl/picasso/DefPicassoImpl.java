@@ -16,7 +16,7 @@ import java.io.File;
 
 
 /**
- * Created by ZhangYuanBo on 2016/6/16.
+ * Created by Brady on 2016/6/16.
  * 图片加载的默认实现
  */
 public class DefPicassoImpl implements ILoadImage {

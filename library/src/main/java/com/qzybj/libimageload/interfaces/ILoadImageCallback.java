@@ -4,7 +4,7 @@ import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 
 /**
- * Created by ZhangYuanBo on 2016/8/4.
+ * Created by Brady on 2016/8/4.
  * 主要用于对接第三方图片加载回调相关参数
  */
 public interface ILoadImageCallback {

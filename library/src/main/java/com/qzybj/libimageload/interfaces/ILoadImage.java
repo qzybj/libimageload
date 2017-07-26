@@ -5,7 +5,7 @@ import android.widget.ImageView;
 
 
 /**
- * Created by ZhangYuanBo on 2016/8/3.
+ * Created by Brady on 2016/8/3.
  * 需要实现图片加载
  */
 public interface ILoadImage {

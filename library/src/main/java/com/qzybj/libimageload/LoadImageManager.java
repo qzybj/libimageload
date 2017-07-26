@@ -11,7 +11,7 @@ import com.qzybj.libimageload.interfaces.impl.picasso.DefPicassoImpl;
 
 
 /**
- * Created by ZhangYuanBo on 2016/8/3.
+ * Created by Brady on 2016/8/3.
  * 图片加载统一控制类
  */
 public class LoadImageManager{
