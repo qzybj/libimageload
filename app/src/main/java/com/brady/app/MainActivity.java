@@ -1,14 +1,11 @@
 package com.brady.app;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.ViewUtils;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 
 import com.brady.app.provider.Data;
 import com.qzybj.libimageload.LoadImageManager;
-import com.qzybj.libraryutil.view.ViewUtil;
 
 public class MainActivity extends AppCompatActivity {
 

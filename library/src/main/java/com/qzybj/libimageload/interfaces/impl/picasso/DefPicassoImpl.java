@@ -8,7 +8,6 @@ import android.widget.ImageView;
 import com.qzybj.libimageload.interfaces.ILoadImage;
 import com.qzybj.libimageload.interfaces.ILoadImageCallback;
 import com.qzybj.libimageload.interfaces.impl.picasso.transformation.ScaleTransformation;
-import com.qzybj.libraryutil.data.StringUtil;
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.RequestCreator;
 
@@ -110,7 +109,7 @@ public class DefPicassoImpl implements ILoadImage {
         RequestCreator requestCreator = null;
         if(imageUrl instanceof String){
             String imageStr = (String)imageUrl;
-            if(StringUtil.isNotEmpty(imageStr)){
+            if(!"".equals(imageStr.trim())){
                 requestCreator = Picasso.with(con).load(imageStr);
             }
         }else if(imageUrl instanceof Integer){
